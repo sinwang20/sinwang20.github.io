@@ -23,8 +23,8 @@ Research Interests
 Research Experience
 ======
 * 2021.07-present: Fudan NLP Lab
-  * Project 1: Causality & Implict Sentiment Analysis
-  * Project 2: Causality & Domain generalization
+  * Project 1: Causality & Implict Sentiment Analysis (published in COLING 2022)
+  * Project 2: Causality & Domain generalization (under review)
   * Supervisor: Postdoc Jie Zhou and Prof. Xuanjing Huang
 
 
