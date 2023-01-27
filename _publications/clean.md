@@ -6,10 +6,12 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2009-10-01
 venue: 'Proceedings of the 29th International Conference on Computational Linguistics (COLING 2022)'
 paperurl: 'https://aclanthology.org/2022.coling-1.607.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+author: '<b>Siyin Wang</b>, Jie Zhou, Changzhi Sun, Junjie Ye, Gui Tao, Qi Zhang, Xuanjing Huang'
+#citation: '<u>Siyin Wang</u>, Jie Zhou, Changzhi Sun, Junjie Ye, Gui Tao, Qi Zhang, Xuanjing Huang. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+**Siyin Wang**, Jie Zhou, Changzhi Sun, Junjie Ye, Gui Tao, Qi Zhang and Xuanjing Huang
 
-[Download paper here](https://aclanthology.org/2022.coling-1.607.pdf)
+Abstract:
 
-#Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[[pdf]](https://aclanthology.org/2022.coling-1.607.pdf) [[code]](https://github.com/sinwang20/CLEAN)
+
