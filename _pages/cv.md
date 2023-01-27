@@ -20,7 +20,7 @@ Research Interests
 * **Causality for NLP**: Towards the well combination of Causality and NLP model to improve the efficiency of current statistical model with the capacity of casual inference.
 
 
-Research experience
+Research Experience
 ======
 * 2021.07-present: Fudan NLP Lab
   * Project 1: Causality & Implict Sentiment Analysis
@@ -36,12 +36,12 @@ Publications
   {% endfor %}</ul>
 
 
-AWARDS
+Honors & Awards
 ======
 * Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM), First prize (*Top 0.6% of 49242 teams*), 2022.09          
 
   
-Service and leadership
+Service & Leadership
 ======
 * 2022.02 - 2023.02: Deputy Director of Youth Volunteers' Centre
   * School of Computer Science, Fudan University
