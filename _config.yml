@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Siyin Wang / Site Title"
+title                    : "Siyin Wang"
 title_separator          : "-"
-name                     : &name "Siyin Wang 王思尹"
+name                     : &name "Siyin Wang"
 description              : &description "Undergraduate at Fudan University"
 url                      : https://sinwang20.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Siyin Wang"
+  name             : "Siyin Wang 王思尹"
   avatar           : "siyin2.jpg"
   bio              : "Undergraduate at Fudan University"
   location         : "Shanghai, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  email            : "siyinwang20@fudan.edu.cn"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=wllp6o0AAAAJ"
-  email            :
+  semanticscholar  : "https://www.semanticscholar.org/author/Siyin-Wang/2182224120"
+  #dblp             : "https://dblp.org/pid/05/6735"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,13 +105,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "siyin_wang"
   vine             :
   weibo            :
   xing             :
