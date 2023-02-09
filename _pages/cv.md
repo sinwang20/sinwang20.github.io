@@ -15,7 +15,7 @@ Education
 
 Research Interests
 ======
-* **Generalism**: Extending LLM capabilities to new domains and tasks and build more general natural language processing (NLP) systems through unified algorithms and theories.
+* **Generalism**: Extending LLM capabilities to new domains and tasks and building more general natural language processing (NLP) systems through unified algorithms and theories.
 
 * **Trustworthy ML/NLP**: Unbiasedness, Robustness, Interpretability (How can we make sure that the model doesn't confound by the potential bias existing in the training data and outputs conform to facts? Does the model has the ability to generalize well when cross-domain? ...)
 
