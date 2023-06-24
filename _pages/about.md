@@ -13,3 +13,9 @@ I am currently a 3rd year undergraudate student at Fudan University. I am advise
 I have broad interests in natural language processing and machine learning, including causality, sentiment analysis, text generation, etc.
                 
 I am planning to apply for the PhD program starting in Fall 2024, and any advice would be greatly appreciated.
+
+
+> *Before embarking on my PhD journey, I would like to express my deepest gratitude to the individuals who have provided me with invaluable choices and advice*:
+>
+> Jie Zhou, Xuanjing Huang  
+> Junjie Ye, Yongheng Liu, Haicang Zhou, Shaowen Wang, Jifan Chen, Kaiqiang Song
