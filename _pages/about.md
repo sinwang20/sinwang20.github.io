@@ -17,6 +17,6 @@ I am planning to apply for the PhD program starting in Fall 2024, and any advice
 
 > *Before embarking on my PhD journey, I would like to express my deepest gratitude to the individuals who have provided me with invaluable choices and advice*:
 >
-> Jie Zhou, Xuanjing Huang  
+> Jie Zhou, Xuanjing Huang, Xipeng Qiu  
 > Junjie Ye, Yongheng Liu, Haicang Zhou, Shaowen Wang, Jifan Chen, Kaiqiang Song  
-> My family
+> My loving family
