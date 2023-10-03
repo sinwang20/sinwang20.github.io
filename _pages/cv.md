@@ -15,7 +15,7 @@ Education
 
 Research Interests
 ======
-* **Generalism**: Extending LLM capabilities to new domains and tasks and building more general natural language processing (NLP) systems through unified algorithms and theories.
+* **AI Safety&Alignment**: Developing artificial general intelligence (AGI) to be more helpful, honest, and harmless, as well as more reliable, robust, and generally aligned with human values and follow human intent.
 
 * **Trustworthy ML/NLP**: Unbiasedness, Robustness, Interpretability (How can we make sure that the model doesn't confound by the potential bias existing in the training data and outputs conform to facts? Does the model has the ability to generalize well when cross-domain? ...)
 
