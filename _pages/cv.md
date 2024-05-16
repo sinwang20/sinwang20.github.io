@@ -19,6 +19,8 @@ Research Interests
 
 * **Trustworthy ML/NLP**: Unbiasedness, Robustness, Interpretability (How can we make sure that the model doesn't confound by the potential bias existing in the training data and outputs conform to facts? Does the model has the ability to generalize well when cross-domain? ...)
 
+* **Language Grounding in Multimodal Embodied Intelligence**: Exploring how language grounding can be integrated with vision, speech, robotics, and other modalities to create embodied intelligent systems.
+
 * **Causality for NLP**: Towards the well combination of Causality and NLP model to improve the efficiency of current statistical model with the capacity of casual inference.
 
 
@@ -26,7 +28,7 @@ Research Experience
 ======
 * 2021.07-present: Fudan NLP Lab
   * Project 1: Causality & Implict Sentiment Analysis (published in COLING 2022)
-  * Project 2: Causality & Domain generalization (under review)
+  * Project 2: Causality & Domain generalization (published in LREC-COLING 2024)
   * Supervisor: Postdoc Jie Zhou and Prof. Xuanjing Huang
 
 
