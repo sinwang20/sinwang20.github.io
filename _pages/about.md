@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a 4th year undergraudate student at Fudan University. I am advised by postdoc Jie Zhou, Prof.[Xipeng Qiu](https://xpqiu.github.io/en.html) and Prof.[Xuanjing Huang](https://xuanjing-huang.github.io/) in [Fudan NLP Lab](https://nlp.fudan.edu.cn/).
+I am currently a 4th year undergraudate student at Fudan University. I am advised by Prof.[Xipeng Qiu](https://xpqiu.github.io/en.html) and Prof.[Xuanjing Huang](https://xuanjing-huang.github.io/) in [Fudan NLP Lab](https://nlp.fudan.edu.cn/).
                 
 I have broad interests in natural language processing and machine learning, including causality, sentiment analysis, text generation, etc.
                 
